@@ -1,0 +1,8 @@
+d:\users\ohad\documents\visual studio 2010\Projects\fixedResolutionSysTray\fixedResolutionSysTray\bin\Debug\fixedResolutionSysTray.exe
+d:\users\ohad\documents\visual studio 2010\Projects\fixedResolutionSysTray\fixedResolutionSysTray\bin\Debug\fixedResolutionSysTray.pdb
+d:\users\ohad\documents\visual studio 2010\Projects\fixedResolutionSysTray\fixedResolutionSysTray\obj\x86\Debug\fixedResolutionSysTray.Properties.Resources.resources
+d:\users\ohad\documents\visual studio 2010\Projects\fixedResolutionSysTray\fixedResolutionSysTray\obj\x86\Debug\fixedResolutionSysTray.csproj.GenerateResource.Cache
+d:\users\ohad\documents\visual studio 2010\Projects\fixedResolutionSysTray\fixedResolutionSysTray\obj\x86\Debug\fixedResolutionSysTray.exe
+d:\users\ohad\documents\visual studio 2010\Projects\fixedResolutionSysTray\fixedResolutionSysTray\obj\x86\Debug\fixedResolutionSysTray.pdb
+d:\users\ohad\documents\visual studio 2010\Projects\fixedResolutionSysTray\fixedResolutionSysTray\bin\Debug\fixedResolutionSysTray.exe.config
+d:\users\ohad\documents\visual studio 2010\Projects\fixedResolutionSysTray\fixedResolutionSysTray\obj\x86\Debug\fixedResolutionSysTray.MainSettingsForm.resources
